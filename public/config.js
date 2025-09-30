@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "wiggaliquid",
   "VITE_SEO_SITE_DESCRIPTION": "The blockchain to house all wigga related finance",
-  "VITE_SEO_SITE_URL": "https://wiggaliquid.com",
+  "VITE_SEO_SITE_URL": "https://trade.wiggaliquid.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, perp, astra, trade",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
